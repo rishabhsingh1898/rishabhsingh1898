@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </h1>
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning React Native, Node.js
+- 🌱 I’m currently learning Compose
 - 👯 I’m looking to collaborate on Androd projects
 - 💬 Ask me about Android, Kotlin, Rxjava
 - 📫 How to reach me: rishabhsingh1898@gmail.com
